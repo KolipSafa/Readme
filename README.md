@@ -1,3 +1,4 @@
+[![MasterHead](https://64.media.tumblr.com/19d1c00af9a8aee27ec95f7fa748e924/cfb682b8109d92c8-2c/s1280x1920/77a0fa6dcf6e24fad1a2f679f639e89ed68b91ea.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Safa Kolip</h1>
 <h3 align="center">A passionate software engineering student from Turkiye</h3>
 
@@ -7,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/safa koli̇p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safa koli̇p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
